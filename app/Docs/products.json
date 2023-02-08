@@ -1,0 +1,76 @@
+{
+    "products" : [
+        {
+            "brand_id" : 3,
+            "product_name": "Samsung a 14",
+            "description" : "Samsung phone",
+            "summary" : "Samsung brand phone",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 20999,
+            "stock": 5
+        },
+        {
+            "brand_id" : 1,
+            "product_name": "Iphone 12",
+            "description" : "iphone 12",
+            "summary" : "Apple iphone 12",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 50000,
+            "stock": 3
+        },
+        {
+            "brand_id" : 1,
+            "product_name": "Iphone 12",
+            "description" : "iphone 12",
+            "summary" : "Apple iphone 12",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 50000,
+            "stock": 3
+        },
+        {
+            "brand_id" : 2,
+            "product_name": "Oneplus 10",
+            "description" : "oneplus 10",
+            "summary" : "oneplus 10",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 40000,
+            "stock": 10
+        },
+        {
+            "brand_id" : 4,
+            "product_name": "Mi 10",
+            "description" : "mi 10",
+            "summary" : "mi 10",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 20000,
+            "stock": 6
+        },
+        {
+            "brand_id" : 5,
+            "product_name": "Vivo v9 pro",
+            "description" : "vivo v9 pro",
+            "summary" : "vivo v9 pro",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 15000,
+            "stock": 2
+        },
+        {
+            "brand_id" : 6,
+            "product_name": "oppo reno 8",
+            "description" : "oppo reno 8",
+            "summary" : "oppo reno 8",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 35000,
+            "stock": 8
+        },
+        {
+            "brand_id" : 2,
+            "product_name": "Oneplus 8",
+            "description" : "oneplus 8",
+            "summary" : "oneplus 8",
+            "image" : "https://via.placeholder.com/150",
+            "price" : 35000,
+            "stock": 7
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "product_brands": [
+        {
+            "brand_name": "Apple"
+        },
+        {
+            "brand_name": "Oneplus"
+        },
+        {
+            "brand_name": "Samsung"
+        },
+        {
+            "brand_name": "MI"
+        },
+        {
+            "brand_name": "Vivo"
+        },
+        {
+            "brand_name": "Oppo"
+        }
+    ]
+}
